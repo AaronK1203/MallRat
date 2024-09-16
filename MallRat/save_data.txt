@@ -1,0 +1,3 @@
+Item:Porkchop:5.0
+Item:Watermelon:3.0
+Item:Apple:0.5
